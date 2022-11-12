@@ -11,10 +11,10 @@ A few resources to get you started if this is your first Flutter project:
 Depend on it
 Run this command:
 With Flutter:
-# flutter pub add image_picker
+- flutter pub add image_picker
 This will add a line like this to your package's pubspec.yaml (and run an implicit flutter pub get):
 dependencies:
-  image_picker: ^0.8.6
+- image_picker: ^0.8.6
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
